@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22894#Tratado-do-processo-criminal-preparatorio-ou-d-instruc--o-e-pronuncia
 gutenberg_issued: '2007-10-05'
 gutenberg_type: Text
 identifiers:
