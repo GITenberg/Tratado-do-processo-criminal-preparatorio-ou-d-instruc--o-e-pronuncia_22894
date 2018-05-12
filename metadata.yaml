@@ -1,0 +1,31 @@
+_repo: Tratado-do-processo-criminal-preparatorio-ou-d-instruc--o-e-pronuncia_22894
+_version: 0.1.0
+alternative_title: Tratado do processo criminal preparatório ou de instrução e pronúncia
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2007-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22894'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Rita Farinha and the Online Distributed\r\nProofreading\
+  \ Team at http://www.pgdp.net (This file was\r\nproduced from images generously\
+  \ made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal).)"
+publication_note: "Loanda:\r\nImprensa Do Governo\r\n1850"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminal law -- Portugal'
+- !lcc 'KJ'
+title: Tratado do processo criminal preparatorio ou d'instrucção e pronuncia
+url: http://www.gutenberg.org/ebooks/22894
